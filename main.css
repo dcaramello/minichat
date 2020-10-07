@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "komika";
+  src:url("komika.ttf");
+}
+
+body {
+  background: linear-gradient(#3f87a6, #002066);
+}
+
+.komika {
+  font-family: "komika", Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 5em;
+}
+
+label {
+  font-size: 2em;
+}
